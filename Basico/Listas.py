@@ -32,6 +32,6 @@ def funcao2(notas):
             return f'Reprovado'
         return f'Aprovado'
 
-if __name__ == '__main__':
-    print(funcao(notas))
-    print(funcao2(notas))
+# if __name__ == '__main__':
+#     print(funcao(notas))
+#     print(funcao2(notas))
